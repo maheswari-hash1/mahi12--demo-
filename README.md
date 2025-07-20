@@ -2,4 +2,4 @@
 This is my first Git Repository.
 <br>
 author - maheswari(Margam)
-python completion
+This project is learn from apna college
